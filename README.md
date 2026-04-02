@@ -1,5 +1,6 @@
 # 💫 About Me:
-Building an end-to-end Data Engineering pipeline using Databricks and PySpark.<br>Open-source Data Science projects or DevOps automation scripts.<br>Optimizing Spark clusters and advanced CI/CD workflows.<br>Azure Databricks, Cloud Architecture, and Machine Learning Operations (MLOps).<br>Python, SQL, Azure DevOps<br>I can debug code faster than I can decide what to eat for dinner!
+I am a passionate Data Engineering enthusiast currently focused on building end-to-end data pipelines using Databricks and PySpark. With a strong foundation in Python, SQL, and Azure DevOps, I am actively exploring the world of Cloud Architecture and MLOps. I love collaborating on open-source Data Science projects and automating workflows through DevOps scripts. I'm constantly learning how to optimize Spark clusters and implement advanced CI/CD pipelines. Fun fact: I can debug code faster than I can decide what to eat for dinner!
+
 
 
 ## 🌐 Socials:
